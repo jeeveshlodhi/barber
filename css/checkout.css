@@ -1,0 +1,42 @@
+.appHead{
+    width: 100%;
+    padding: 5px;
+    background-color: black;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 10px;
+}
+.cardWrapper{
+    border: 0px !important  ;
+}
+
+.appIcon{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.dlOezG {
+    height: auto;
+    width: 100%;
+    position: relative;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin: 0px 0px 0.5rem;
+}
+.imgWrapper img{
+    width: 130px;
+}
+.descWrapper p{
+    margin-bottom: 0px !important;
+}
+.bookApp{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: rgb(56, 56, 56);
+    width: 400px;
+    padding: 10px;
+    border: 1px solid grey;
+}

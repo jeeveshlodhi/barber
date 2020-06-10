@@ -1,0 +1,46 @@
+.appHead{
+    width: 100%;
+    padding: 5px;
+    background-color: black;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 10px;
+}
+.cardWrapper{
+    border: 0px !important  ;
+}
+
+.appIcon{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.cardImgWrapper img{
+    width: 50px;
+    padding: 5px;
+}
+.topicWrapper{
+    border-bottom: 1px solid grey;
+}
+.timeWrapper{
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.bookApp{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: rgb(56, 56, 56);
+    width: 400px;
+    padding: 10px;
+    border: 1px solid grey;
+}
+.formWrapper{
+    font-size: 18px;
+    padding: 15px;
+}

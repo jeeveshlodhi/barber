@@ -1,0 +1,17 @@
+{
+    "name": "Weredoo",
+    "short_name": "Weredoo",
+    "theme_color": "#ffcbe4",
+    "background_color": "#fa99ca",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://weredoo.pranavkhurana.com/",
+    "description": "Weredoo Shopping",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://weredoo.pranavkhurana.com/assets/logo.png",
+            "sizes": "1024x1024"
+        }
+    ]
+}
